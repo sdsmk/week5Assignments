@@ -3,7 +3,7 @@ package Day5Assignments;
 import java.util.regex.*;
 import java.io.*;
   
-class RegexEmail {
+class Assignment3 {
     public static void Emails(BufferedReader br,Pattern p)
     {
     	try {
