@@ -1,5 +1,5 @@
 package Day5Assignments;
-public class BuilderPatternExample {
+public class Assignment1 {
   
     public static void main(String args[]) {
       
